@@ -1,16 +1,46 @@
-### Hi there 👋
+ 
+# Hi!👋 I'm Mostafa Abdullah,
+
+## Full-Stack Web Developer </>
+**Passionate about coding and solving problems.**
+
 
 <!--
-**MostafaAbdullah29/Mostafaabdullah29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MostafaAbdullah29/MostafaAbdullah29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on improving my skills and abilities in coding.
+
+- 🌱 I’m currently learning Full-Stack development at HACKYOURFUTURE Coding School - Amsterdam.
+
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with JavaScirpt.
+- 💬 Ask me about ...
+-->
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mostafaabdullah/)
+
+
+- 😄 Pronouns: (he/his)
+
+- ⚡ Fun fact: I spend almost 10 hours coding, listening to music and drinking too much coffee everyday.
+
+
+![](https://img.shields.io/badge/Skills_-React.js_|_Nodejs_|_JavaScript_|_CSS_|_HTML_|_Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafaabdullah29&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafaabdullah29&show_icons=true&theme=radical)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafaabdullah29)](https://github.com/mostafaabdullah29/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdullah29)](https://github.com/mostafaabdullah29/github-readme-stats) 
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdullah29&layout=compact)](https://github.com/mostafaabdullah29/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafaabdullah29&count_private=true&show_icons=true)
+
