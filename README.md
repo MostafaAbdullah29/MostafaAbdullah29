@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JavaScirpt.
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mostafaabdullah/)
+- 📫 How to reach me: [Linkedin](https://bit.ly/linkedinMostafaAbdullah)
 
 
 - 😄 Pronouns: (He/His)
