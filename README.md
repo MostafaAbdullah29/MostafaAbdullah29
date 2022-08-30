@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mostafaabdullah/)
 
 
-- 😄 Pronouns: (he/his)
+- 😄 Pronouns: (He/His)
 
 - ⚡ Fun fact: I spend almost 10 hours coding, listening to music and drinking too much coffee everyday.
 
