@@ -4,6 +4,9 @@
 ## Full-Stack Web Developer </>
 **Passionate about coding and solving problems.**
 
+![](https://img.shields.io/badge/Skills_-React.js_|_Nodejs_|_JavaScript_|_CSS_|_HTML_|_Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 
 <!--
 **MostafaAbdullah29/MostafaAbdullah29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,15 +23,17 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JavaScirpt.
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: [Linkedin](https://bit.ly/linkedinMostafaAbdullah)
-
-
 - 😄 Pronouns: (He/His)
 
 - ⚡ Fun fact: I spend almost 10 hours coding, listening to music and drinking too much coffee everyday.
 
+- 📫 How to reach me: [Linkedin](https://bit.ly/linkedinMostafaAbdullah)
 
-![](https://img.shields.io/badge/Skills_-React.js_|_Nodejs_|_JavaScript_|_CSS_|_HTML_|_Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MostafaAbdullah29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://bit.ly/linkedinMostafaAbdullah)   
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanadAlHasan)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafaabdullah29&show_icons=true)
