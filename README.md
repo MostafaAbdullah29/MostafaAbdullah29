@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I spend almost 10 hours coding, listening to music and drinking too much coffee everyday.
 
-- 📫 How to reach me: [Linkedin](https://bit.ly/linkedinMostafaAbdullah)
+- 📫 How to reach me: <!-- [Linkedin](https://bit.ly/linkedinMostafaAbdullah) -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MostafaAbdullah29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://bit.ly/linkedinMostafaAbdullah)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MostafaAbdullah29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@0.119.181/icons/linkedin.svg' alt='linkedin' height='40'>](https://bit.ly/linkedinMostafaAbdullah)   
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanadAlHasan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
